@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Atzori, Manfredo
+AU  - Gijsberts, Arjan
+AU  - Castellini, Claudio
+AU  - Caputo, Barbara
+AU  - Hager, Anne-Gabrielle Mittaz
+AU  - Elsig, Simone
+AU  - Giatsidis, Giorgio
+AU  - Bassetto, Franco
+AU  - Müller, Henning
+PY  - 2014
+DA  - 2014/12/23
+TI  - Electromyography data for non-invasive naturally-controlled robotic hand prostheses
+JO  - Scientific Data
+SP  - 140053
+VL  - 1
+IS  - 1
+AB  - Recent advances in rehabilitation robotics suggest that it may be possible for hand-amputated subjects to recover at least a significant part of the lost hand functionality. The control of robotic prosthetic hands using non-invasive techniques is still a challenge in real life: myoelectric prostheses give limited control capabilities, the control is often unnatural and must be learned through long training times. Meanwhile, scientific literature results are promising but they are still far from fulfilling real-life needs. This work aims to close this gap by allowing worldwide research groups to develop and test movement recognition and force control algorithms on a benchmark scientific database. The database is targeted at studying the relationship between surface electromyography, hand kinematics and hand forces, with the final goal of developing non-invasive, naturally controlled, robotic hand prostheses. The validation section verifies that the data are similar to data acquired in real-life conditions, and that recognition of different hand tasks by applying state-of-the-art signal features and machine-learning algorithms is possible.
+SN  - 2052-4463
+UR  - https://doi.org/10.1038/sdata.2014.53
+DO  - 10.1038/sdata.2014.53
+ID  - Atzori2014
+ER  - 
